@@ -1,3 +1,5 @@
-It was not very difficult
-It was not very difficult
-I do not think that I have to add anything else
+The layout of my app screen was not too difficult to create
+The functionality was decently difficult and I had to ask for help from my classmates
+I did not have to research ay outside skills to create this app
+I did not use any APIs
+I would like to add APIs to this program

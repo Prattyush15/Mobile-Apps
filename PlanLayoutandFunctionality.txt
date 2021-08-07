@@ -1,1 +1,5 @@
-First we will have a text input box which will allow the suer to input the amount of money in USD they have. Then they will click a button to convert it to a foreign currency and once they do click this button. They will directed to another screen where it will display the converted value and some facts about the country where the currency is from.
+Utilize the same code from the instagram project inorder to create the rotating images. Then create a bottom bar which allows you to switch between post account and feed. 
+When you click post, it will allow you to post a picture and when you click feed, it will show you your feed
+The screen should show the values the user is inputting
+State values should hold the images from the feed and the new inputted images
+It will be the same as the instagram project but with a bottom bar with the ability to swtichbetween post accoutn and feed.
