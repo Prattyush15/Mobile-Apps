@@ -1,0 +1,5 @@
+1. This app allows you to update the mile count starting at 26 miles all the way down to 0 miles in which it then gives you the message that you are done.
+2. You have a button on the top of the screen that when tapped, the mile counter goes down. You also have the mile counter itslef where it shows how many miles you have left. You also have the background of a road to make the app look more appealing. 
+3. I would center the words and button on the app because right now, they are both on the right side of the screen inside of the center. 
+4. The if, else, and return statements are familiar to me. 
+5. Everything besides the if, else, and return statements are brand new to me.
