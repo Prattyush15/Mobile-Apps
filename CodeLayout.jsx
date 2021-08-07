@@ -18,17 +18,10 @@ export default class App extends Component {
                 <View style={styles.topBox}>
                     <View style = {styles.prof}>
                         
-                        <TouchableHighlight
-                            onPress={() => {
-                                alert('Redirecting to your profile...')
-                            }}
-                        >
                         <Image
                             source={{ uri: 'https://codehs.com/uploads/33fe03655439107715d4c999d8ad2e07' }}
                             style={{ height: deviceHeight/10, width: deviceWidth/6 }}
                         />
-                        </TouchableHighlight>
-                        
                     </View>
                     
                     <View style = {styles.blank}>
@@ -37,19 +30,10 @@ export default class App extends Component {
                     
                     <View style={styles.prof}>
                     
-                        <TouchableHighlight
-                        onPress={() => {
-                            alert('Searching for ' + this.state.inputValue)
-                        }}
-                        >
                         <Image
                             source={{ uri: 'https://codehs.com/uploads/ca23af5f9048a44a242db9fccdc71b58' }}
                             style={{ height: deviceHeight/10, width: deviceWidth/6 }}
                         />
-                    </TouchableHighlight>
-                    
-                    
-                        
                     </View>
                     
                     
@@ -85,34 +69,20 @@ export default class App extends Component {
                     
                     <View style={styles.game1}>
                     
-                        <TouchableHighlight
-                            onPress={() => {
-                                alert('Redirecting you to Valorant...')
-                            }}
-                        >
-                            <Image
-                                source={{ uri: 'https://codehs.com/uploads/a6064e4e58bef27a9fdc1edc1a5df3cf' }}
-                                style={{ height: 4*(deviceHeight/10), width: deviceWidth/2 }}
-                            />
-                        </TouchableHighlight>
-                        
+                        <Image
+                            source={{ uri: 'https://codehs.com/uploads/a6064e4e58bef27a9fdc1edc1a5df3cf' }}
+                            style={{ height: 4*(deviceHeight/10), width: deviceWidth/2 }}
+                        />
                         
 
                     </View>
                     
                     <View style={styles.game1}>
                     
-                        <TouchableHighlight
-                            onPress={() => {
-                                alert('Redirecting you to Overwatch')
-                            }}
-                        >
-                            <Image
-                                source={{ uri: 'https://codehs.com/uploads/529610b22d502d9eea8e68770d3bcdd3' }}
-                                style={{ height: 4*(deviceHeight/10), width: deviceWidth/2 }}
-                            />
-                        </TouchableHighlight>
-                        
+                        <Image
+                            source={{ uri: 'https://codehs.com/uploads/529610b22d502d9eea8e68770d3bcdd3' }}
+                            style={{ height: 4*(deviceHeight/10), width: deviceWidth/2 }}
+                        />
                         
 
                     </View>
@@ -128,52 +98,30 @@ export default class App extends Component {
                 </View>
                 
                 <View style={styles.bottom}>
+                    
                     <View style={styles.channel}>
-                        <TouchableHighlight
-                        onPress={() => {
-                            alert('Redirecting you to Dakotaz')
-                        }}
-                    >
-                         <Image
+                        <Image
                             source={{ uri: 'https://codehs.com/uploads/b308e684a26846d9871d0a3b728fded6' }}
-                            style={{ height: 140, width:200 }}
+                            style={{ height: 140, width: 200 }}
                         />
-                    </TouchableHighlight>
-    
-        
+                    
                     </View>
                     
-                    
-                    
                     <View style={styles.channel}>
-                        <TouchableHighlight
-                            onPress={() => {
-                                alert('Redirecting you to Ninja')
-                            }}
-                        >
-                            <Image
-                                source={{ uri: 'https://codehs.com/uploads/7e18742f32ac981fd09aad3bd130ca3f' }}
-                                style={{ height: 140, width:200 }}
-                            />
+                        <Image
+                            source={{ uri: 'https://codehs.com/uploads/7e18742f32ac981fd09aad3bd130ca3f' }}
+                            style={{ height: 140, width: 200 }}
+                        />
                     
-                        </TouchableHighlight>
-                        
                     </View>
+                    
                     <View style={styles.channel}>
-                        <TouchableHighlight
-                        onPress={() => {
-                            alert('Redirecting you to Bro You Wack')
-                        }}
-                        >
                         <Image
                             source={{ uri: 'https://codehs.com/uploads/26e0990b20d10dca179d36797537d367' }}
-                            style={{height: 140, width:200 }}
+                            style={{ height: 140, width: 200 }}
                         />
                     
-                    </TouchableHighlight>
                     </View>
-                    
-                 
                     
                     
                 </View>

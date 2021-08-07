@@ -1,5 +1,3 @@
-The layout of my app screen was not too difficult to create
-The functionality was decently difficult and I had to ask for help from my classmates
-I did not have to research ay outside skills to create this app
-I did not use any APIs
-I would like to add APIs to this program
+It was pretty difficult importing the pictures in and adding the touchableHighlight function
+The usage of touchableHighlight and textinput
+I was not able to redirect the person to another screen and also add a scroll bar

@@ -1,5 +1,5 @@
-Utilize the same code from the instagram project inorder to create the rotating images. Then create a bottom bar which allows you to switch between post account and feed. 
-When you click post, it will allow you to post a picture and when you click feed, it will show you your feed
-The screen should show the values the user is inputting
-State values should hold the images from the feed and the new inputted images
-It will be the same as the instagram project but with a bottom bar with the ability to swtichbetween post accoutn and feed.
+App to recreate: twitch
+1. components will be stacked on top of each other to mirror the following screen of the twitch app
+2. when you click a button, an alert will appear saying you will be redirected to [insert game or channel]
+3. when typing into the search bar, you will be able to search for a specific game or creator and once you click the search button, an alert will appear saying you will be redirected. \
+4. I will be able to implement images of various games and chennels to make the screen look as real as possible.
