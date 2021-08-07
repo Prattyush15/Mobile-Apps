@@ -1,0 +1,1 @@
+The app that I will be creating is a top 5 places to visit in 2021 application which will allow the user to click form 5 vacation spots and be shown pictures, a short description of the place, and what to bring to travel there.
