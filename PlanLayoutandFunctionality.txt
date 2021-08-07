@@ -1,0 +1,1 @@
+First we will have a text input box which will allow the suer to input the amount of money in USD they have. Then they will click a button to convert it to a foreign currency and once they do click this button. They will directed to another screen where it will display the converted value and some facts about the country where the currency is from.
